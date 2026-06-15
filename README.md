@@ -1,1 +1,1 @@
-# Crop-Recommendations- Using Machine Learning
+# Crop-Recommendation- Using Machine Learning
